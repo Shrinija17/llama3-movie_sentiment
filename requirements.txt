@@ -1,0 +1,6 @@
+
+tweepy
+requests
+pandas
+matplotlib
+wordcloud
